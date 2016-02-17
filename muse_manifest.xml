@@ -1,0 +1,138 @@
+<manifest alg="2" build="50" opt="false">
+  <folder name="assets">
+    <folder name="make-a-splash">
+      <folder name="edge_includes">
+        <file name="edge.1.0.0.min.js" crc="47829327" mt="1354734130000"/>
+        <file name="jquery-1.7.1.min.js" crc="111770969" mt="1354734130000"/>
+        <file name="jquery.easing.1.3.js" crc="24609341" mt="1354734130000"/>
+        <file name="json2_min.js" crc="4081928964" mt="1354734130000"/>
+      </folder>
+      <folder name="images">
+        <file name="Poster.png" crc="241626321" mt="1354734130000"/>
+        <file name="sky.png" crc="3761117309" mt="1354734130000"/>
+        <file name="clarify.svg" crc="3853940526" mt="1354734130000"/>
+        <file name="communications.svg" crc="4161554392" mt="1354734130000"/>
+        <file name="duck.svg" crc="4091066343" mt="1354734130000"/>
+        <file name="duck_reverse.svg" crc="3842073192" mt="1354734130000"/>
+        <file name="educate.svg" crc="4119759746" mt="1354734130000"/>
+        <file name="inform.svg" crc="4220847392" mt="1354734130000"/>
+        <file name="inspire.svg" crc="3792586505" mt="1354734130000"/>
+        <file name="make-a-splash.svg" crc="179450581" mt="1354734130000"/>
+        <file name="motivate.svg" crc="98296210" mt="1354734130000"/>
+        <file name="orange_speech_bubble.svg" crc="4158460353" mt="1354734130000"/>
+        <file name="persuade.svg" crc="4069033823" mt="1354734130000"/>
+        <file name="preloader3.gif" crc="184697563" mt="1354734130000"/>
+        <file name="splash_to_left.svg" crc="240038632" mt="1354734130000"/>
+        <file name="splash_to_left_LG.svg" crc="435569624" mt="1354734130000"/>
+        <file name="splash_to_right.svg" crc="9957199" mt="1354734130000"/>
+        <file name="splash_to_right_LG.svg" crc="12134232" mt="1354734130000"/>
+        <file name="wave_background.svg" crc="4213982151" mt="1354734130000"/>
+        <file name="wave_front.svg" crc="147836149" mt="1354734130000"/>
+        <file name="wave_middle.svg" crc="115910491" mt="1354734130000"/>
+        <file name="your_story.svg" crc="3795940763" mt="1354734130000"/>
+      </folder>
+      <file name="make-a-splash_edge.js" crc="2163712" mt="1354734130000"/>
+      <file name="make-a-splash_edgeActions.js" crc="527994520" mt="1354734130000"/>
+      <file name="make-a-splash_edgePreload.js" crc="4092069090" mt="1354734130000"/>
+      <file name="make-a-splash.html" crc="4190681354" mt="1354734130000"/>
+    </folder>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="4030075162"/>
+    <file name="master_a-master.css" crc="4025887020" ref="contact:kudos:why-choose-mad-duck:work:about:index:services"/>
+    <file name="contact.css" crc="187357885" ref="contact"/>
+    <file name="kudos.css" crc="4201910474" ref="kudos"/>
+    <file name="why-choose-mad-duck.css" crc="4127546266" ref="why-choose-mad-duck"/>
+    <file name="work.css" crc="3955297438" ref="work"/>
+    <file name="about.css" crc="227850933" ref="about"/>
+    <file name="index.css" crc="3917462378" ref="index"/>
+    <file name="services.css" crc="4288464026" ref="services"/>
+  </folder>
+  <folder name="scripts">
+    <folder name="1.1">
+      <file name="jquery-1.7.min.js" crc="4285342938" ref="index:about:why-choose-mad-duck:services:work:contact:kudos"/>
+      <file name="museutils.js" crc="56281167" ref="index:about:why-choose-mad-duck:services:work:contact:kudos"/>
+      <file name="pie.js" crc="3786417276" ref="index:about:why-choose-mad-duck:services:work:contact:kudos"/>
+      <file name="pie.htc" crc="354638364" ref="index:about:why-choose-mad-duck:services:work:contact:kudos"/>
+      <file name="jquery.musemenu.js" crc="4025593856" ref="index:about:why-choose-mad-duck:services:work:contact:kudos"/>
+      <file name="webpro.js" crc="171035655" ref="work"/>
+      <file name="musewpslideshow.js" crc="264849301" ref="work"/>
+      <file name="jquery.museoverlay.js" crc="4273343390" ref="work"/>
+    </folder>
+  </folder>
+  <folder name="images">
+    <file name="dots_double_3x6_180gray.png" crc="3793567553" ref="index:about:why-choose-mad-duck:services:work:contact:kudos"/>
+    <file name="mad-duck_logo.png" crc="21656077" ref="index:about:why-choose-mad-duck:services:work:contact:kudos"/>
+    <file name="mad_duck_creative2.png" crc="366499708" ref="index:about:why-choose-mad-duck:services:work:contact:kudos"/>
+    <file name="dots_double_6x8_180gray.png" crc="57992595" ref="index:about:why-choose-mad-duck:services:work:contact:kudos"/>
+    <file name="ducksketch1gray_sm.jpg" crc="439481329" ref="index"/>
+    <file name="ducksketch2gray_sm.jpg" crc="3871184211" ref="index"/>
+    <file name="ducksketch3gray_sm.jpg" crc="3886212435" ref="index"/>
+    <file name="ducksketch4gray_sm.jpg" crc="61298027" ref="index"/>
+    <file name="jacquicrocettaimg_2317crop-u699.jpg" crc="4046615024" ref="about"/>
+    <file name="whychoosemadduck.png" crc="3887970104" ref="why-choose-mad-duck"/>
+    <file name="howcanwehelpyou.png" crc="535241252" ref="services"/>
+    <file name="circle_half_or_bullet.png" crc="3895043209" ref="services"/>
+    <file name="indique.jpg" crc="4152232274" ref="work"/>
+    <file name="vocus_1.jpg" crc="117220085" ref="work"/>
+    <file name="vocus_2.jpg" crc="311108679" ref="work"/>
+    <file name="peerless.jpg" crc="4066915820" ref="work"/>
+    <file name="fobg_bee.jpg" crc="4056684021" ref="work"/>
+    <file name="empowered2move.jpg" crc="3904203253" ref="work"/>
+    <file name="smithsonian.jpg" crc="26976844" ref="work"/>
+    <file name="courageunmasked.jpg" crc="4136135459" ref="work"/>
+    <file name="bethanyvillage.jpg" crc="4280197078" ref="work"/>
+    <file name="autismsociety.jpg" crc="4039867347" ref="work"/>
+    <file name="brooksidegardens.jpg" crc="4126150421" ref="work"/>
+    <file name="medstar_interface.jpg" crc="4246617504" ref="work"/>
+    <file name="3d_card_sun.jpg" crc="124121246" ref="work"/>
+    <file name="3d_card_lao-tse.jpg" crc="414185715" ref="work"/>
+    <file name="asburyfoundation_invite.jpg" crc="514223214" ref="work"/>
+    <file name="georgetownuniv_gradstudies.jpg" crc="3838415636" ref="work"/>
+    <file name="georgetownuniv_biomed.jpg" crc="3875630779" ref="work"/>
+    <file name="charltonconsulting.jpg" crc="3949552910" ref="work"/>
+    <file name="fedbid.jpg" crc="4257828362" ref="work"/>
+    <file name="cheiron.jpg" crc="171943049" ref="work"/>
+    <file name="hermitage_broch.jpg" crc="4290112960" ref="work"/>
+    <file name="solomons.jpg" crc="4270473477" ref="work"/>
+    <file name="bethanyvillage_vibrantviews.jpg" crc="4205931876" ref="work"/>
+    <file name="ulfwallinphotography.jpg" crc="4056322005" ref="work"/>
+    <file name="santegroup.jpg" crc="236064691" ref="work"/>
+    <file name="hermitage_site.jpg" crc="491414718" ref="work"/>
+    <file name="indique157x76.jpg" crc="224567221" ref="work"/>
+    <file name="vocus_196x49.jpg" crc="32252297" ref="work"/>
+    <file name="vocus_296x49.jpg" crc="40680996" ref="work"/>
+    <file name="peerless256x129.jpg" crc="312384832" ref="work"/>
+    <file name="fobg_bee284x145.jpg" crc="340347005" ref="work"/>
+    <file name="empowered2move332x170.jpg" crc="3890704042" ref="work"/>
+    <file name="smithsonian198x101.jpg" crc="431064774" ref="work"/>
+    <file name="courageunmasked122x67.jpg" crc="335738591" ref="work"/>
+    <file name="bethanyvillage291x149.jpg" crc="4062132323" ref="work"/>
+    <file name="autismsociety237x121.jpg" crc="208781564" ref="work"/>
+    <file name="brooksidegardens217x111.jpg" crc="287728770" ref="work"/>
+    <file name="medstar_interface327x167.jpg" crc="346918730" ref="work"/>
+    <file name="3d_card_sun127x65.jpg" crc="115621630" ref="work"/>
+    <file name="3d_card_lao-tse96x49.jpg" crc="3978918280" ref="work"/>
+    <file name="asburyfoundation_invite140x72.jpg" crc="3964771889" ref="work"/>
+    <file name="georgetownuniv_gradstudies151x86.jpg" crc="464474343" ref="work"/>
+    <file name="georgetownuniv_biomed151x79.jpg" crc="3856111798" ref="work"/>
+    <file name="charltonconsulting161x87.jpg" crc="3961858536" ref="work"/>
+    <file name="fedbid172x123.jpg" crc="371841627" ref="work"/>
+    <file name="cheiron222x109.jpg" crc="436263029" ref="work"/>
+    <file name="hermitage_broch198x134.jpg" crc="337067505" ref="work"/>
+    <file name="solomons112x61.jpg" crc="3866266806" ref="work"/>
+    <file name="bethanyvillage_vibrantviews152x102.jpg" crc="4111203839" ref="work"/>
+    <file name="ulfwallinphotography178x94.jpg" crc="4232978104" ref="work"/>
+    <file name="santegroup134x86.jpg" crc="3831263657" ref="work"/>
+    <file name="hermitage_site96x49.jpg" crc="310350518" ref="work"/>
+    <file name="loading.gif" crc="3815509949" ref="work"/>
+    <file name="letschat.png" crc="349036074" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="310466081" mt="1354749398398"/>
+  <file name="about.html" crc="87497158" mt="1352926309805"/>
+  <file name="why-choose-mad-duck.html" crc="4014463664" mt="1352940803284"/>
+  <file name="services.html" crc="4034155884" mt="1352940834605"/>
+  <file name="work.html" crc="3984227255" mt="1354748786698"/>
+  <file name="contact.html" crc="4260945277" mt="1352940767048"/>
+  <file name="kudos.html" crc="3831541120" mt="1354750121211"/>
+</manifest>
